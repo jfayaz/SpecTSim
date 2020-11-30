@@ -1,0 +1,1 @@
+Region         :	WUSLatitude       :	34.14843Longitude      :	-118.17119Vs30 (m/s)     :	360Period (s)     :	1.0Hazard Level   :	975Reqd # of GMs  :	1Match UHS      :	1Sa Tol.(g)     :	0.85
