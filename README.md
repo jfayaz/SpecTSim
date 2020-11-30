@@ -1,9 +1,7 @@
 # Spectrally-Targeted Time-Series Simulator (SpecTSim)
 
 
-Note:
-
-This tool requires working internet connection and Matlab-Runtime (9.4) (https://www.mathworks.com/products/compiler/matlab-runtime.html) installed in the PC.
+Note: This tool requires working internet connection and Matlab-Runtime (9.4) (https://www.mathworks.com/products/compiler/matlab-runtime.html) installed in the PC.
 
 
 This tool simulates site-based synthetic ground-motions using DRD (aka ADK) simulation model (Razaeian et. al. 2012,  Dabaghi et. al. 2018b) that match a Target Spectrum. The tool provides two options: 1) Provide the Target Spectrum csv file or 2) Use Uniform Hazard Spectrum (UHS) obtained from Unified Hazard Tool (2008) of USGS as the Target Spectrum. The tool uses the algorithm proposed by Fayaz and Zareian (submitted) to simulate site-based ground motion whose RotD50 spectrum naturally matches the Target Spectrum between specified range of periods.
@@ -21,10 +19,6 @@ Seed No.' is an input for randomness and reproducibility; must be a whole number
 
 USGS currently possess Hazard Curves and Deaggregation only for PGA and Periods = 0.2, 1.0, & 2.0 sec and Vs30 = 180, 259, 360, 537, 760 & 1150 m/s. Hence the Hazard Curves are generated only for these Periods and Deaggregation is conducted for the Period closest to the Period entered by the user.
 
-
-Collaborators and Contributors:
-
-Jawad Fayaz (UC-Irvine) and Farzin Zareian (UC-Irvine).
 
 
     Primary citation for this tool :    
