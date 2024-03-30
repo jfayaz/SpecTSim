@@ -22,17 +22,17 @@ USGS currently possess Hazard Curves and Deaggregation only for PGA and Periods 
 
 
     Primary citation for this tool :    
-    Fayaz J. and Zareian F. (submitted). An Efficient Algorithm to Simulate Site-Based Ground Motions that match a Target Spectrum.
+    Jawad Fayaz and Farzin Zareian (2021). "An Efficient Algorithm to Simulate Site-Based Ground Motions that match a Target Spectrum". Earthquake Engineering and Structural Dynamics, Vol. 50, Issue 13, Pages 3532-3549
 
 
 References:
 
-1) Fayaz J. and Zareian F. (submitted). An Efficient Algorithm to Simulate Site-Based Ground Motions that match a Target Spectrum.
+1) Fayaz J., and Zareian F. (2021). An Efficient Algorithm to Simulate Site-Based Ground Motions that match a Target Spectrum. Earthquake Engineering and Structural Dynamics, Vol. 50, Issue 13, Pages 3532-3549.
 
-2) Fayaz J., Azar S., Dabaghi M., and Zareian F. (2020). An Efficient Algorithm to Simulate Hazard-Targeted Site-Based Synthetic Ground Motions, Earthquake Spectra
+2) Fayaz J., Azar S., Dabaghi M., and Zareian F. (2020). An Efficient Algorithm to Simulate Hazard-Targeted Site-Based Synthetic Ground Motions, Earthquake Spectra, Vol. 37, Issue 2, Pages 876-902.
 
 3) Dabaghi, M., Daoud, Y., and Der Kiureghian, A. (2018a). Simulation of near fault ground motions for randomized hypocenter and site locations, Proceedings of the 11th US National Conference on Earthquake Engineering, Los Angeles, CA.
 
 4) Dabaghi M., and Der Kiureghian A. (2018b). Simulation of orthogonal horizontal components of near‐fault ground motion for specified earthquake source and site characteristics. Earthquake Engineering & Structural Dynamics; 47(6):1369-1393.
 
-5) Rezaeian, S., and Der Kiureghian, A., (2012). Simulation of orthogonal horizontal ground motion components for specified earthquake and site characteristics. Earthquake Engineering & Structural Dynamics; 41(2), 335-353.
+5) Rezaeian, S., and Der Kiureghian, A. (2012). Simulation of orthogonal horizontal ground motion components for specified earthquake and site characteristics. Earthquake Engineering & Structural Dynamics; 41(2), 335-353.
